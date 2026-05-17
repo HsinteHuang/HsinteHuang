@@ -10,7 +10,7 @@
 
 ---
 
-### 🎓 給法律學院同學的 GitHub 加入指南 (For Classmates)
+### 🎓 GitHub 加入邀請 (For Classmates)
 如果您是法律學院的同學，想要加入 GitHub 進行協作或學習，可以參考以下步驟：
 1. **註冊帳號：** 前往 [GitHub.com](https://github.com/join) 註冊。
 2. **基本操作：** 
