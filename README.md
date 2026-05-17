@@ -13,13 +13,14 @@
 2. **基本操作：** 
    - 點擊右上角 **+** 號可以建立新的「儲存庫」(Repository) 來存放您的筆記或研究。
    - 法律文件也可以利用 Markdown 格式進行版本控制。
-3. **互相關注：** 歡迎追蹤 (Follow) 我的 GitHub，我們可以在這裡分享關於 LegalTech 或系統管理的資訊！
+3. **互相關注：** 歡迎追蹤 (Follow) 我的 GitHub，我們可以在這裡分享關於法律或系統管理的資訊！
 
 ---
 
 ### 📊 GitHub 統計 (GitHub Stats)
 
-![HsinteHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HsinteHuang&show_icons=true&theme=radical&hide_border=true)
+![HsinteHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HsinteHuang&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HsinteHuang&layout=compact&theme=radical)
 
 ---
 
