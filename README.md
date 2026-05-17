@@ -4,7 +4,7 @@
 
 # 👨‍💻 關於我 (About Me)
 ### - 💼 **工作職稱：** 資訊專員 (Information Specialist)
-### - 🚀 **目前動態：** 公司二代管理系統開發中 (Currently drafting requirements for our next-gen management system).
+### - 🚀 **目前動態：** 公司二代管理系統開發中 (Currently developing our next-gen management system).
 ### - 📚 **持續學習：** 持續精進系統分析與專案管理能力，並於法律學院碩士在職專班研修中。
 ### - 🏹 **日常運動：** 現代反曲弓射箭 (Modern Recurve Archery).
 
