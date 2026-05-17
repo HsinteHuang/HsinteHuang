@@ -27,6 +27,7 @@
 
 ### 📖 使用手冊與工具 (Manuals & Tools)
 - [Gemini CLI 使用手冊](https://gemini-cli.gh.miniasp.com/) - 深入了解如何使用 Gemini CLI 來加速您的開發流程與日常工作。
+- [Claude Code 完全指南 (2026)](https://claude-world.com/zh-tw/articles/claude-code-complete-guide-2026/) - 學習如何運用 Anthropic 推出的 Claude Code CLI 工具。
 
 ---
 
