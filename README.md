@@ -21,6 +21,7 @@
 
 ### 📚 好文推薦 (Recommended Reading)
 - [30 天精通 Git 版本掌控](https://github.com/doggy8088/Learn-Git-in-30-days/tree/master) - 由 Will 保哥撰寫的經典 Git 教學，非常推薦給剛接觸版本控制的同學。
+- [AI Agents for Beginners (中文版)](https://github.com/microsoft/ai-agents-for-beginners/blob/main/translations/zh-TW/00-course-setup/README.md) - 微軟提供的 AI Agent 基礎課程，適合想要了解人工智慧代理人的初學者。
 
 ---
 
