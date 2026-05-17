@@ -3,7 +3,17 @@
 ### 👨‍💻 關於我 (About Me)
 - 💼 **職位：** 資訊專員 (Information Specialist)
 - 🚀 **目前動態：** 正在整理公司二代管理系統的需求書 (Currently drafting requirements for our next-gen management system).
-- 🌱 **學習中：** 持續精進系統分析與專案管理能力。
+- 🌱 **學習中：** 持續精進系統分析與專案管理能力，並於法律學院碩士在職專班研修中。
+
+---
+
+### 🎓 給法律學院同學的 GitHub 加入指南 (For Classmates)
+如果您是法律學院的同學，想要加入 GitHub 進行協作或學習，可以參考以下步驟：
+1. **註冊帳號：** 前往 [GitHub.com](https://github.com/join) 註冊。
+2. **基本操作：** 
+   - 點擊右上角 **+** 號可以建立新的「儲存庫」(Repository) 來存放您的筆記或研究。
+   - 法律文件也可以利用 Markdown 格式進行版本控制。
+3. **互相關注：** 歡迎追蹤 (Follow) 我的 GitHub，我們可以在這裡分享關於 LegalTech 或系統管理的資訊！
 
 ---
 
