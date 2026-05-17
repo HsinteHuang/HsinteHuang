@@ -19,6 +19,11 @@
 
 ---
 
+### 📚 好文推薦 (Recommended Reading)
+- [30 天精通 Git 版本掌控](https://github.com/doggy8088/Learn-Git-in-30-days/tree/master) - 由 Will 保哥撰寫的經典 Git 教學，非常推薦給剛接觸版本控制的同學。
+
+---
+
 ### 📊 GitHub 統計 (GitHub Stats)
 
 ![HsinteHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HsinteHuang&show_icons=true&theme=radical)
