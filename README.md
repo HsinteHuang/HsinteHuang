@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HsinteHuang&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=36da59,71ffb0&height=200&section=header&text=HsinteHuang&fontSize=90)
 
 # Hi 👋, 您好，我是阿得
 
