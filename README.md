@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=228b22,8db600&height=250&section=header&text=HsinteHuang&fontSize=100&v=2)
 
-# # Hi 👋, 您好，我是阿得
+# Hi 👋, 您好，我是阿得
 
 # 👨‍💻 關於我 (About Me)
 ### - 💼 **工作職稱：** 資訊專員 (Information Specialist)
