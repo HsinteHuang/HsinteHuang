@@ -34,6 +34,10 @@
 
 # 📊 GitHub 統計 (GitHub Stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HsinteHuang&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HsinteHuang&theme=default)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HsinteHuang&theme=default)
+
 <img src="https://github-readme-stats.vercel.app/api?username=HsinteHuang&show_icons=true&theme=radical" width="80%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HsinteHuang&layout=compact&theme=radical" width="80%">
 
