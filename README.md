@@ -2,6 +2,10 @@
 
 # Hi 👋, 您好，我是阿得
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HsinteHuang.HsinteHuang)
+[![Stars](https://img.shields.io/github/stars/HsinteHuang/HsinteHuang?style=flat&color=yellow)](https://github.com/HsinteHuang/HsinteHuang/stargazers)
+[![Forks](https://img.shields.io/github/forks/HsinteHuang/HsinteHuang?style=flat&color=blue)](https://github.com/HsinteHuang/HsinteHuang/network/members)
+
 # 👨‍💻 關於我 (About Me)
 ### - 💼 **工作職稱：** 資訊專員 (Information Specialist)
 ### - 🚀 **目前動態：** 公司二代管理系統開發中 (Currently developing our next-gen management system).
